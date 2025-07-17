@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привіт, я tarch1k 👋
 
-<!--
-**omn1crypt/omn1crypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Я — системний ентузіаст, що вивчає системне адміністрування, мережі та кібербезпеку.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Про мене:
+- 📚 Знайомий з Python, SQL, HTML, Bash
+- 🖥️ Працюю з Linux (Debian, RedHat)
+- 🔐 Цікавлюсь Red Team, Penetration Testing та Security Engineering
+- 🛠️ Налаштовую NAT, iptables, мережеву діагностику, SSH, VPN
+- 💡 Люблю автоматизувати рутину скриптами
+
+---
+
+## 🎯 Мета:
+Стати спеціалістом у сфері кібербезпеки (Red Team / Security Engineer)
+
+---
+
+## 📁 Проєкти:
+- 🔧 **NAT-Router на Linux** — локальна мережа з доступом до інтернету через iptables
+- 🔍 **Скрипти Bash для моніторингу**
+- ⛓️ **Лабораторії з кібербезпеки** (CTF, TryHackMe)
+
+---
+
+## 📫 Зв'язок:
+- Email: tarch1k@protonmail.com
+
+---
+
+## 📊 GitHub статистика:
+![tarch1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarch1k&show_icons=true&theme=tokyonight)
